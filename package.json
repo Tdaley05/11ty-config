@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-    "scripts": {
+  "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
-    "deploy": "gh-pages -d _site"    
+    "deploy": "gh-pages -d _site"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Tdaley05/11ty-config#readme",
   "dependencies": {
     "@11ty/eleventy": "^3.1.8"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

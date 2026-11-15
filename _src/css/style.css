@@ -8,5 +8,21 @@ body {
 }
 
 h1 {
-  color: #a8ff5c;
+  color: #41a0ff;
+}
+figure {
+  margin: 20px 0;
+}
+
+figure img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  display: block;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: #555555;
+  margin-top: 8px;
 }
