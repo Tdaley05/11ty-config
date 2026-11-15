@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #030303;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #41a0ff;
+}
+figure {
+  margin: 20px 0;
+}
+
+figure img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  display: block;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: #555555;
+  margin-top: 8px;
+}
