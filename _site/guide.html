@@ -11,7 +11,8 @@
      <meta http-equiv="X-UA-Compatible"
            content="ie=edge">
      <title></title>
-     <link rel="stylesheet" href="CSS/styles.css">
+     <link rel="stylesheet" href="css/styles.css">
+     <script type="module" src="js/is-land.js"></script>
 
 </head>
 <body>
@@ -33,6 +34,8 @@
       <li><a href="#scarcity-and-supply">Scarcity and Supply</a></li>
     
       <li><a href="#preservation-and-action">Preservation and Action</a></li>
+    
+      <li><a href="#3d-test">3D Test</a></li>
     
     </ul>
   </nav>
@@ -133,7 +136,33 @@ Physical discs, cartridges, etc. ensure cultural works remain playable decades l
 
   </section>
   
+  <section id="3d-test">
+    <h2>3D Test</h2>
+    
+    <style>
+  #bg {
+    width: 100% !important;
+    height: auto !important;
+    display: block;
+  }
+</style>
+<p>Testing:</p>
+<is-land on:visible>
+  <template data-island>
+    <canvas id="bg"></canvas>
+    <script type="module" src="js/threeScene.js"></script>
+  </template>
+</is-land>
+<p>I plan to put some sort of relevant 3D scene into here later.</p>
+
+  </section>
+  
 </main>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="guide.html">Tech Issue Guide</a>
+</nav>
 
 
 </body>

@@ -11,13 +11,30 @@
      <meta http-equiv="X-UA-Compatible"
            content="ie=edge">
      <title></title>
-     <link rel="stylesheet" href="CSS/styles.css">
+     <link rel="stylesheet" href="css/styles.css">
+     <script type="module" src="js/is-land.js"></script>
 
 </head>
 <body>
 
     <h1>Welcome to my site!</h1>
 <p>11ty site</p>
+<is-land on:visible>
+  <div id="counter" v-scope="{ count: 0 }">
+    <p>Count: <span v-text="count"></span></p>
+    <button @click="count++">Add one</button>
+  </div>
+  <template data-island>
+    <script type="module">
+      import { createApp } from './js/petite-vue.js'
+      createApp().mount('#counter')
+    </script>
+  </template>
+</is-land>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="guide.html">Tech Issue Guide</a>
+</nav>
 
 
 </body>
