@@ -26,3 +26,13 @@ figcaption {
   color: #555555;
   margin-top: 8px;
 }
+
+.filters button.on {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.topic img {
+  max-width: 14rem;
+  margin: 0.5rem;
+}
