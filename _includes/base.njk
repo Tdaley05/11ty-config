@@ -12,11 +12,13 @@
            content="ie=edge">
      <title></title>
      <link rel="stylesheet" href="css/styles.css">
+     <script type="module" src="js/is-land.js"></script>
 
 </head>
 <body>
 
     {{ content | safe }}
+{% include "layouts/navbar.html" %}
 
 </body>
 </html>
