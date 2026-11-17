@@ -7,17 +7,8 @@ image_credit: Photo by Josh Marty, via Unsplash
 ---
 ### Why Purchased Media Disappears
 
-Digital storefronts rely on temporary contracts.
+Digital storefronts rely on temporary contracts. When those contracts expire, companies regularly delist games, movies, and shows, sometimes wiping them from user libraries even after you paid full price.
 
- When those contracts expire, companies regularly delist games, movies, and shows. 
+ Companies don't even pretend otherwise anymore. <a href="https://www.videogameschronicle.com/news/sony-says-reasonable-consumers-know-they-dont-own-the-digital-games-they-buy/"> This Video Games Chronicle report </a> on Sony's court defense over digital games shows them flat-out arguing that "reasonable consumers" already know clicking "Buy Now" only gets you a temporary license instead of actual ownership.
 
- This sometimes wiping them from user libraries even after you paid full price.
-
-Beyond complete removal, digital updates can silently edit out original soundtracks, or alter scenes
-
-(I have a movie I bought on YouTube forever ago, and 2 voices changed since I bought it and I hated when I found that out).
-
-### Recommended Resource
-[Video Games Chronicle](https://www.videogameschronicle.com/news/sony-says-reasonable-consumers-know-they-dont-own-the-digital-games-they-buy/)
-
-Explains temorary licensing.
+Like mentioned before, digital updates can silently edit out original soundtracks, or alter scenes (I have a movie I "bought to own" on YouTube forever ago, and 2 voices changed since I bought it and I hated when I found that out. They can still take that away completely if they choose as well).

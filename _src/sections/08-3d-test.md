@@ -1,6 +1,7 @@
 ---
 title: 3D Test
-order: 6
+order: 8
+
 
 ---
 <style>
@@ -20,4 +21,4 @@ Testing:
   </template>
 </is-land>
 
-I plan to put some sort of relevant 3D scene into here later.
+I plan to put some sort of relevant 3D scene into here/somewhere on the page later.

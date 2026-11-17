@@ -9,7 +9,6 @@ order: 1
 
 In today's age, you can do almost everything on your phone: listen to music, play games, draw/paint, watch movies, etc.
 
--
-[Pocket-Lint](https://www.pocket-lint.com/buying-physical-media-act-rebellion/)
+That convenience comes at a cost, though. I really liked <a href="https://www.pocket-lint.com/buying-physical-media-act-rebellion/">this Pocket-Lint piece on why buying physical media is a small act of rebellion</a> because it points out things most people don't notice, like how streaming services silently edit old episodes and compress video quality even when you pay for the highest tier.
 
-Breaks down why people are choosing physical over digital.
+It also touches on similar issues with books and consoles phasing out physical discs, but more on that later.
