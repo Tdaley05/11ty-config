@@ -1,0 +1,43 @@
+{
+  "Media": [
+    {
+      "file": "cds.jpg",
+      "caption": "Stack of CDs",
+      "alt": "A small display stack of CDs"
+    },
+    {
+      "file": "shelf.jpg",
+      "caption": "Shelves of media and figurines",
+      "alt": "A bookcase of books and games as well as figurines"
+    }
+  ],
+  "Stores": [
+    {
+      "file": "exchange.jpg",
+      "caption": "The Exhange",
+      "alt": "The Exchange in Pittsburgh, Pennsylvania"
+    },
+    {
+      "file": "vincent.jpg",
+      "caption": "Thrift Store",
+      "alt": "St Vincent DePaul's Thrift Store in Pittsburgh, Pennsylvania"
+    }
+  ],
+  "Tech": [
+    {
+      "file": "cdplayer.jpg",
+      "caption": "Philips MC235(B?) CD Player",
+      "alt": "philips mc235 cd player"
+    },
+    {
+      "file": "dvdburner.jpg",
+      "caption": "DVD Burner",
+      "alt": "Son DVD burner"
+    },
+    {
+      "file": "VhsPlayer.jpg",
+      "caption": "Vhs Player",
+      "alt": ""
+    }
+  ]
+}
